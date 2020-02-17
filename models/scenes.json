@@ -1,0 +1,1128 @@
+[
+  {
+    "id": 0,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Welcome",
+      "text": "Welcome to Chemistry Choice. This is a loosely based, but true story about a part of a high schooler's day. To learn how to use this skill, say \"Help\". When you are ready, say \"Start\".",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Welcome to Chemistry Choice. This is a loosely based, but true story about a part of a high schooler's day. To learn how to use this skill, say \"Help\". When you are ready, say \"Start\".",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 1,
+        "utterances": [
+          "start",
+          "begin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Start",
+      "text": "Your last day of school has just ended and you are on your bicycle pedaling home. Thoughts of which chemistry class you'll take next year swirl in your head. Your friend wants you to take AP with her, but you don't know if you're smart enough. It isn't until you see the boy walking ahead of you that you are pulled out of your reverie. Do you stop to chat with him?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your last day of school has just ended and you are on your bicycle pedaling home. Thoughts of which chemistry class you'll take next year swirl in your head. Your friend wants you to take AP with her, but you don't know if you're smart enough. It isn't until you see the boy walking ahead of you that you are pulled out of your reverie. Do you stop to chat with him?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 2,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 3,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chatting",
+      "text": "You slow down along side him and ask about his day. He turns his sad face and tells you that he has failed AP Chemistry. He then warns you not to take it. Having learned what you could, you say farewell to the boy and continue biking. Once you reach the halfway point to your house you catch a glimpse of a wave while crossing the street. You think it is a friend. Do you look?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You slow down along side him and ask about his day. He turns his sad face and tells you that he has failed AP Chemistry. He then warns you not to take it. Having learned what you could, you say farewell to the boy and continue biking. Once you reach the halfway point to your house you catch a glimpse of a wave while crossing the street. You think it is a friend. Do you look?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 4,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 5,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No",
+      "text": "You continue biking. Once you reach the halfway point to your house you catch a glimpse of a wave while crossing the street. You think it is a friend. Do you look?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You continue biking. Once you reach the halfway point to your house you catch a glimpse of a wave while crossing the street. You think it is a friend. Do you look?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 12,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 13,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Looking",
+      "text": "You look over your shoulder and see a car rapidly approaching. The man driving appears to be sleeping on the wheel. You jerk your bike to the side as the car grazes your pedals and continues barreling down the road. As it crests a hill out of sight you hear the screech of brakes. He must have woken up. The rest of the way home is uneventful. Do you use your key to open the front door?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You look over your shoulder and see a car rapidly approaching. The man driving appears to be sleeping on the wheel. You jerk your bike to the side as the car grazes your pedals and continues barreling down the road. As it crests a hill out of sight you hear the screech of brakes. He must have woken up. The rest of the way home is uneventful. Do you use your key to open the front door?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 6,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 7,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Don't Look",
+      "text": "Determined to be a model biker, you resist the temptation to look. The last thing you see is the bottom of a Tesla. You have died.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Determined to be a model biker, you resist the temptation to look. The last thing you see is the bottom of a Tesla. You have died.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 6,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Open Door w/ Key",
+      "text": "You pull your key out of your pocket and open the door. Surprised, your dog runs forward and mauls you. Fiddo's kisses don't seem so bad now. You have died.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You pull your key out of your pocket and open the door. Surprised, your dog runs forward and mauls you. Fido's kisses don't seem so bad now. You have died.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 7,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Scratch on Door",
+      "text": "You start scratching on the door. After a minute you can hear the footsteps of your mom coming to open the door. As it swings in Fiddo pounces on you. You can feel his tongue pry apart your lips. You've never liked his kisses. Having gotten enough love, Fiddo waddles away and goes to sleep. You greet your parents. Your dad asks about your day while your mom headbutts you in the stomach. She's always been weird. Do you go take a nap?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You start scratching on the door. After a minute you can hear the footsteps of your mom coming to open the door. As it swings in Fido pounces on you. You can feel his tongue pry apart your lips. You've never liked his kisses. Having gotten enough love, Fido waddles away and goes to sleep. You greet your parents. Your dad asks about your day while your mom headbutts you in the stomach. She's always been weird. Do you go take a nap?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 8,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 9,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Nap",
+      "text": "You go into your room. It is extemely hot and your window is painted shut. Do you turn on the fan above your bed?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You go into your room. It is extemely hot and your window is painted shut. Do you turn on the fan above your bed?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 10,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 11,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Eat",
+      "text": "You head over to the kitchen and start making yourself a parfait. After adding the fruit to the granola you realize that you don't have any yogurt. Do you continue anyways?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You head over to the kitchen and start making yourself a parfait. After adding the fruit to the granola you realize that you don't have any yogurt. Do you continue anyways?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 28,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 29,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Fan",
+      "text": "You turn the fan on high and enjoy the cool air. Its steady hum is mesmerizing. Right before you fall asleep a bright light fills your vision. The last things you heard were a crack and then slicing silence. You have died.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You turn the fan on high and enjoy the cool air. Its steady hum is mesmerizing. Right before you fall asleep a bright light fills your vision. The last things you heard were a crack and then slicing silence. You have died.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 11,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No Fan",
+      "text": "You lay down and try to sleep. Soon the heat becomes unbearable  so you give up and leave. Outside, your parents want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You lay down and try to sleep. Soon the heat becomes unbearable  so you give up and leave. Outside, your parents want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 20,
+        "utterances": [
+          "none",
+          "neither"
+        ]
+      },
+      {
+        "sceneId": 21,
+        "utterances": [
+          "normal",
+          "regular",
+          "chemistry p",
+          "easy one"
+        ]
+      },
+      {
+        "sceneId": 22,
+        "utterances": [
+          "honors",
+          "honors chemistry",
+          "chemistry hp",
+          "the kinda easy one",
+          "the kinda hard one"
+        ]
+      },
+      {
+        "sceneId": 23,
+        "utterances": [
+          "advanced placement",
+          "a p"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Looking",
+      "text": "You look over your shoulder and see a car rapidly approaching. The man driving appears to be sleeping on the wheel. You jerk your bike to the side as the car grazes your pedals and continues barreling down the road. As it crests a hill out of sight you hear the screech of brakes. He must have woken up. The rest of the way home is uneventful. Do you use your key to open the front door?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You look over your shoulder and see a car rapidly approaching. The man driving appears to be sleeping on the wheel. You jerk your bike to the side as the car grazes your pedals and continues barreling down the road. As it crests a hill out of sight you hear the screech of brakes. He must have woken up. The rest of the way home is uneventful. Do you use your key to open the front door?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 14,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 15,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Don't look",
+      "text": "Determined to be a model biker, you resist the temptation to look. The last thing you see is the bottom of a Tesla. You have died.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Determined to be a model biker, you resist the temptation to look. The last thing you see is the bottom of a Tesla. You have died.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 14,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Open Door w/ Key",
+      "text": "You pull your key out of your pocket and open the door. Surprised, your dog runs forward and mauls you. Fiddo's kisses don't seem so bad now. You have died.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You pull your key out of your pocket and open the door. Surprised, your dog runs forward and mauls you. Fido's kisses don't seem so bad now. You have died.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 15,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Scratch on Door",
+      "text": "You start scratching on the door. After a minute you can hear the footsteps of your mom coming to open the door. As it swings in Fiddo pounces on you. You can feel his tongue pry apart your lips. You've never liked his kisses. Having gotten enough love, Fiddo waddles away and goes to sleep. You greet your parents. Your dad asks about your day while your mom headbutts you in the stomach. She's always been weird. Do you go take a nap?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You start scratching on the door. After a minute you can hear the footsteps of your mom coming to open the door. As it swings in Fido pounces on you. You can feel his tongue pry apart your lips. You've never liked his kisses. Having gotten enough love, Fido waddles away and goes to sleep. You greet your parents. Your dad asks about your day while your mom headbutts you in the stomach. She's always been weird. Do you go take a nap?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 16,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 17,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Nap",
+      "text": "You go into your room. It is extremely hot and your window is painted shut. Do you turn on the fan above your bed?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You go into your room. It is extremely hot and your window is painted shut. Do you turn on the fan above your bed?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 18,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 19,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Eat",
+      "text": "You head over to the kitchen and start making yourself a parfait. After adding the fruit to the granola you realize that you don't have any yogurt. Do you continue anyways?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You head over to the kitchen and start making yourself a parfait. After adding the fruit to the granola you realize that you don't have any yogurt. Do you continue anyways?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 34,
+        "utterances": [
+          "yes"
+        ]
+      },
+      {
+        "sceneId": 35,
+        "utterances": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Fan",
+      "text": "You turn the fan on high and enjoy the cool air. Its steady hum is mesmerizing. Right before you fall asleep a bright light fills your vision. The last things you heard were a crack and then razor silence. You have died.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You turn the fan on high and enjoy the cool air. Its steady hum is mesmerizing. Right before you fall asleep a bright light fills your vision. The last things you heard were a crack and then razor silence. You have died.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 19,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No Fan",
+      "text": "You lay down and try to sleep. Soon the heat becomes unbearable , so you give up and leave. Outside, your parents want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You lay down and try to sleep. Soon the heat becomes unbearable , so you give up and leave. Outside, your parents want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 24,
+        "utterances": [
+          "none",
+          "neither"
+        ]
+      },
+      {
+        "sceneId": 25,
+        "utterances": [
+          "normal",
+          "regular",
+          "chemistry p",
+          "easy one"
+        ]
+      },
+      {
+        "sceneId": 26,
+        "utterances": [
+          "honors",
+          "honors chemistry",
+          "chemistry hp",
+          "the kinda easy one",
+          "the kinda hard one"
+        ]
+      },
+      {
+        "sceneId": 27,
+        "utterances": [
+          "advanced placement",
+          "a p"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No Chemistry",
+      "text": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 21,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry P",
+      "text": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 22,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry HP",
+      "text": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 23,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "AP Chemisty",
+      "text": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 24,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No Chemistry",
+      "text": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 25,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry P",
+      "text": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 26,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry HP",
+      "text": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 27,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "AP Chemistry",
+      "text": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 28,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Dry Parfait",
+      "text": "You look down at your sad bowl of dry granola and fruit. You start to cry. As your tears fall into the granola, a change starts to occur. Your dry parfait has now transformed into... a soggy parfait. You are now super sad. While eating you asphyxiate on your damp and salty granola. You have died. There is no bright light.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You look down at your sad bowl of dry granola and fruit. You start to cry. As your tears fall into the granola, a change starts to occur. Your dry parfait has now transformed into... a soggy parfait. You are now super sad. While eating you asphyxiate on your damp and salty granola. You have died. There is no bright light.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 29,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Oatmeal Cookie",
+      "text": "You take your bowl of fruity granola and add in some eggs, butter, and flour. You then bake it. After ten minutes you pull out your cookies and eat them. They are delicious. You start to cry. They taste even better salty. Your parents walk into the kitchen and want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You take your bowl of fruity granola and add in some eggs, butter, and flour. You then bake it. After ten minutes you pull out your cookies and eat them. They are delicious. You start to cry. They taste even better salty. Your parents walk into the kitchen and want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 30,
+        "utterances": [
+          "none",
+          "neither"
+        ]
+      },
+      {
+        "sceneId": 31,
+        "utterances": [
+          "normal",
+          "regular",
+          "chemistry p",
+          "easy one"
+        ]
+      },
+      {
+        "sceneId": 32,
+        "utterances": [
+          "honors",
+          "honors chemistry",
+          "chemistry hp",
+          "the kinda easy one",
+          "the kinda hard one"
+        ]
+      },
+      {
+        "sceneId": 33,
+        "utterances": [
+          "advanced placement",
+          "a p"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No Chemistry",
+      "text": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 31,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry P",
+      "text": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 32,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry HP",
+      "text": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 33,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "AP Chemistry",
+      "text": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 34,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Dry Parfait",
+      "text": "You look down at your sad bowl of dry granola and fruit. You start to cry. As your tears fall into the granola, a change starts to occur. Your dry parfait has now transformed into... a soggy parfait. You are now super sad. While eating you asphyxiate on your damp and salty granola. You have died. There is no bright light.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You look down at your sad bowl of dry granola and fruit. You start to cry. As your tears fall into the granola, a change starts to occur. Your dry parfait has now transformed into... a soggy parfait. You are now super sad. While eating you asphyxiate on your damp and salty granola. You have died. There is no bright light.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 35,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Oatmeal Cookie",
+      "text": "You take your bowl of fruity granola and add in some eggs, butter, and flour. You then bake it. After ten minutes you pull out your cookies and eat them. They are delicious. You start to cry. They taste even better salty. Your parents walk into the kitchen and want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You take your bowl of fruity granola and add in some eggs, butter, and flour. You then bake it. After ten minutes you pull out your cookies and eat them. They are delicious. You start to cry. They taste even better salty. Your parents walk into the kitchen and want to know which chemistry class you'll take next year. What do you tell them?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 36,
+        "utterances": [
+          "none",
+          "neither"
+        ]
+      },
+      {
+        "sceneId": 37,
+        "utterances": [
+          "normal",
+          "regular",
+          "chemistry p",
+          "easy one"
+        ]
+      },
+      {
+        "sceneId": 38,
+        "utterances": [
+          "honors",
+          "honors chemistry",
+          "chemistry hp",
+          "the kinda easy one",
+          "the kinda hard one"
+        ]
+      },
+      {
+        "sceneId": 39,
+        "utterances": [
+          "advanced placement",
+          "a p"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No Chemistry",
+      "text": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents give you a disappointed look and kick you out of the house. Newly disowned, you wander the streets and hopelessly try to satiate your hunger with the scraps people give you. Eventually, you wander into a bright light. You have died. The hunger has followed you. You want a burrito.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 37,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry P",
+      "text": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take regular Chemistry. They tell you that you can do better but accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 38,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chemistry HP",
+      "text": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell your parents that you want to take Honors Chemistry. They nod their heads and accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 39,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "AP Chemistry",
+      "text": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Your parents tell you that the class is going to be tough but they have faith in you. You can see a ghost of pride in their eyes. They accept your decision. Congrats! You have successfully decided which chemistry class you'll take. You win!",
+      "prompt": ""
+    },
+    "options": []
+  }
+]
