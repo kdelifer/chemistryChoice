@@ -1,0 +1,93 @@
+UnrecognizedIntent ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+ResetStateIntent reset skill
+ResetStateIntent start again
+ResetStateIntent reset
+RestoreStateIntent resume skill
+RestoreStateIntent resume
+RepeatOptionsIntent repeat options
+RepeatSceneIntent repeat scene
+RepeatSceneIntent repeat
+GoBackIntent go back
+AMAZON.HelpIntent help
+AMAZON.StopIntent exit skill
+AMAZON.CancelIntent exit skill
+StartIntent start
+StartIntent begin
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+NoneIntent none
+NoneIntent neither
+NormalIntent normal
+NormalIntent regular
+NormalIntent chemistry p
+NormalIntent easy one
+HonorsIntent honors
+HonorsIntent honors chemistry
+HonorsIntent chemistry hp
+HonorsIntent the kinda easy one
+HonorsIntent the kinda hard one
+AdvancedPlacementIntent advanced placement
+AdvancedPlacementIntent a p
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+YesIntent yes
+NoIntent no
+NoneIntent none
+NoneIntent neither
+NormalIntent normal
+NormalIntent regular
+NormalIntent chemistry p
+NormalIntent easy one
+HonorsIntent honors
+HonorsIntent honors chemistry
+HonorsIntent chemistry hp
+HonorsIntent the kinda easy one
+HonorsIntent the kinda hard one
+AdvancedPlacementIntent advanced placement
+AdvancedPlacementIntent a p
+NoneIntent none
+NoneIntent neither
+NormalIntent normal
+NormalIntent regular
+NormalIntent chemistry p
+NormalIntent easy one
+HonorsIntent honors
+HonorsIntent honors chemistry
+HonorsIntent chemistry hp
+HonorsIntent the kinda easy one
+HonorsIntent the kinda hard one
+AdvancedPlacementIntent advanced placement
+AdvancedPlacementIntent a p
+NoneIntent none
+NoneIntent neither
+NormalIntent normal
+NormalIntent regular
+NormalIntent chemistry p
+NormalIntent easy one
+HonorsIntent honors
+HonorsIntent honors chemistry
+HonorsIntent chemistry hp
+HonorsIntent the kinda easy one
+HonorsIntent the kinda hard one
+AdvancedPlacementIntent advanced placement
+AdvancedPlacementIntent a p
